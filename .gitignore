@@ -1,0 +1,8 @@
+# Binaries (distributed via release zip)
+*.exe
+*.dll
+*.zip
+python312.zip
+python312._pth
+vapoursynth64/
+rife-v4.6/
